@@ -18,5 +18,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SesliSevdaAndroid"
+rootProject.name = "SesliChatAndroid"
 include(":app")
